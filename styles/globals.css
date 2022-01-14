@@ -1,11 +1,16 @@
 html,
 body {
+  background-color: hsl(222, 43%, 24%);
+  color: hsl(222, 43%, 97%);
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
+#__next {
+  display: grid;
+  place-items: center;
+}
 a {
   color: inherit;
   text-decoration: none;
