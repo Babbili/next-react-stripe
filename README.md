@@ -1,1 +1,1 @@
-## Next js, React Stripe integration
+## Next js, React Stripe Payment integration
